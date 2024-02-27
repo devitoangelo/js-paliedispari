@@ -7,3 +7,4 @@ Generiamo un numero random (sempre da 1 a 5) per il computer (usando una funzion
 - L'utente scegli pari o dispari e inserisce un numero da 1 a 5
 - Generiamo un numero random per il computer sempre da 1 a 5
 - sommiamo i due numeri e stabiliamo se è pari o dispari
+- Dichiariamo chi ha vinto.
